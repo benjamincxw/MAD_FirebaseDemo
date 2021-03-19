@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402664876014",
+    "firebase_url": "https://myfirstfirebase-c9256-default-rtdb.firebaseio.com",
+    "project_id": "myfirstfirebase-c9256",
+    "storage_bucket": "myfirstfirebase-c9256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402664876014:android:e92f2959a2842f594890ff",
+        "android_client_info": {
+          "package_name": "com.example.myfirstfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402664876014-lkst6fjcig8l7tksrrno2d61c570s5j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKIPxLS5L2_QuNnbKoIcWQDcvZUKKjlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402664876014-lkst6fjcig8l7tksrrno2d61c570s5j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
